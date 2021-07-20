@@ -67,6 +67,13 @@ p a{
   font-weight: normal;
 }
 
+.catText{
+  color: #325b6e;;
+  font-weight: bold;
+  margin: 0 0 20px 0;
+  display: inline-block;
+}
+
 @media screen and (max-width: 540px) {
   /* h1{
     font-size: 22px;

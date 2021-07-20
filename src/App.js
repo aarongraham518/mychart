@@ -124,6 +124,8 @@ class App extends Component {
       </div> 
 
       <div className="layout3">
+
+      <a href="#" className="catText">ADD MORE CATEGORIES</a>
       <Slider 
             sliderTextColor={"oceanblue"}
             headingText={"Marley's Care"}
